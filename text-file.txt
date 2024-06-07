@@ -2,3 +2,4 @@ Add first line in the file
 Add second line in the file
 Add third line in the file in local master
 Add fifth line in the file in local branch
+Add sixth line in the file in local feature/addition
